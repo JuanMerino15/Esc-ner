@@ -1,0 +1,11 @@
+.container { max-width: 720px; margin: 24px auto; font-family: Arial, sans-serif; }
+.controls { margin-bottom: 12px; }
+.primary { background: #007bff; color: white; border: none; padding: 8px 12px; cursor: pointer; border-radius: 4px; }
+.preview { margin: 12px 0; }
+.preview-img { max-width: 320px; border: 1px solid #ddd; border-radius: 4px; }
+.form { display: grid; gap: 8px; margin-top: 16px; }
+.form label { font-size: 0.9rem; color: #333; }
+.form input { padding: 8px; border: 1px solid #ccc; border-radius: 4px; }
+.actions { margin-top: 12px; }
+.result { margin-top: 16px; background: #f8f9fa; padding: 12px; border-radius: 6px; }
+.muted { color: #666; }
